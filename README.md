@@ -2,6 +2,10 @@
 
 ```terraform
 
+locals {
+    keyvault = jsondecode(file("./ccoe/keyvault.json"))
+}
+
 module "keyvault" {
   source = "./module/keyvault"
 
