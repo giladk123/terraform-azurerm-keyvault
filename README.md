@@ -76,4 +76,4 @@ No modules.
 
 | Name | Description |
 |------|-------------|
-| <a name="output_keyvault"></a> [keyvault](#output\_keyvault) | n/a |
+| <a name="output_keyvault"></a> [keyvault](#output\_keyvault) | values of the keyvault |
